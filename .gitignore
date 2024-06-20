@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Tailwind output
+dist/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore build artifacts if you use a build tool
+build/
+
+# Optional: ignore environment variables if you have any
+.env
+
+# Optional: ignore IDE/editor configuration files
+.vscode/
+.idea/
+
+# Optional: ignore package lock files
+package-lock.json
+yarn.lock
